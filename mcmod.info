@@ -1,0 +1,17 @@
+[
+{
+    "modid" : "RealPwrGen",
+    "name" : "Realistic Power Generation",
+    "version" : "Lecture 1",
+    "credits" : "Thanks to Vswe and Komoden for the help and lectures",
+    "authors" : [
+        "BeringTom", "Others"
+    ],
+    "description" : "A mod that provides realistic means of creating power",
+    "url" : "http://beringtom.dk/rpg",
+    "updateurl" : "",
+    "parent" : "",
+    "screenshots" : [
+    ]
+}
+]
